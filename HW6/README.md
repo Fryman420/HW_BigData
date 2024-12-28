@@ -5,7 +5,6 @@
 - Работа с датасетом Airbnb Open Data: [Kaggle Dataset](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
 - Загрузка данных в виртуальную машину (VM)
 - Создание внешней и внутренней таблиц в базе данных
-- Выполнение SQL-запросов для анализа данных
 
 ---
 
